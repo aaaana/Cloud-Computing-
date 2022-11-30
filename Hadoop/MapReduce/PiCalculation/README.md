@@ -107,8 +107,8 @@ Radius = 200
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/93315926/194802159-668eb99d-39c7-4feb-b0ee-1921e827bf41.png">
 
-## Detail Design Presentation
-[Pi calculation using MapReduce](https://docs.google.com/presentation/d/1SfhsLRsk71G_YDLw-eBnDyk6nwd0qdZ1rLrxOv_LQGE/edit#slide=id.g25f6af9dd6_0_0)
+## Detail Presentation
+[Google Slide Pi calculation using MapReduce](https://docs.google.com/presentation/d/1snJgieMe6nuIptkCzM_I08B3bCqOfjNI9oJccF5NnYs/edit#slide=id.p)
 
 # References
 Chang, H. (2022, 10 09). Overview of Pi Calculation. Overview of Pi Calculation. https://hc.labnet.sfbu.edu/~henry/npu/classes//mapreduce/pi/slide/overview.html   
