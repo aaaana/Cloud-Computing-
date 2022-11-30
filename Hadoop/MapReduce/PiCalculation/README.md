@@ -20,7 +20,7 @@
 ## Requirment
 
 * GCP Environment
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/93315926/194799644-6b303972-e90e-4fc4-821b-0b26e2df9a6d.png">
+<img width="600" alt="image" src=""F:\CS570-Big Data\Picture2.png"">
 
 * Hadoop environment
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/93315926/194799724-14031ad3-43db-4f36-a668-faf70a279365.png">
