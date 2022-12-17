@@ -1,4 +1,5 @@
 # Implementation on GCP 
+* [Google Slide] (https://docs.google.com/presentation/d/1UrF22QwhtrPH9wG5J1EefAUCjHTc83bwmwcmJqAYRIE/edit?usp=sharing)
 ## Create Clsuter on GCP 
 * Enable the Google Cloud Engine API and Dataproc API
 * Create a Dataproc Cluster
