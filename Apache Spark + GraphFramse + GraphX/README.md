@@ -1,6 +1,7 @@
 #  Apache Spark + GraphFramse + GraphX
+[Google Slide](https://docs.google.com/presentation/d/1qNRkt0r85tE_ZlPMXEj00CvzAc8fPxASnBXV1ZUTVA4/edit?usp=sharing)
 ## Create Cluster on GCP 
-* refer previous task 
+* refer to previous homework
 ## Prepare data
 * upload person.csv and relation.csv from local to the GCP cluster 
 ## Create HDFS file system and copy the data to hdfs
