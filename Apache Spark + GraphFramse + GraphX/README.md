@@ -49,6 +49,12 @@ $ graph.bfs(fromExpr = "age < 20", toExpr = "name = 'Rachel'", edgeFilter = "rel
 ```
 ## Modify graphdemo.py
 ```
+# Import PySpark
+$ import pyspark
+$ from pyspark.sql import SparkSession
+
+#Create SparkSession
+$ spark = SparkSession.builder.master("local[1]").appName("GraphXDemo").getOrCreate()
 
 ```
 ## Run graphdemo.py
